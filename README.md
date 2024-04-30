@@ -5,6 +5,7 @@
    [Video Walkthrough]()
   
   ## Table of Contents 
+  
 
   * [Description](#description)
 
@@ -12,23 +13,19 @@
   
   * [Installation](#installation)
   
-  * [Usage](#usage)
-  
-  * [Contributing](#contributing)
 
   
-
  
   ## Description
 
-  This project is similar to a wordpress site, where developers in the tech industry can publish their blog posts. Also, developers can comment on other posts on the web page. This app follows the MVC (model-view-controller) that uses technologies like handlebars, node js, mysql, sequelize and other npm packages. The deployed app is on Heroku, so for a note, it might take a few seconds to load up. 
+  Developers in the tech industry now have an application where they can publish their blog posts. As well as comment on other posts on the web page. This app follows the MVC (model-view-controller) that uses handlebars, node js, mysql, sequelize and other npm packages. In order to deploy the app Render was used. 
 
   ## Screenshot
 
   
   ## Installation 
 
-  To install the necessary dependencies, run the following command:
+  In order to install the necessary dependencies, first run the following command:
   
   ```Dependencies
    npm i
