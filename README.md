@@ -16,7 +16,7 @@
   
   * [Contributing](#contributing)
 
-  * [License](#license)
+  
 
  
   ## Description
