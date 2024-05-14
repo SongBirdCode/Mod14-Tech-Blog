@@ -1,5 +1,7 @@
 const router = require('express').Router();
 const { User, Post, Comment } = require('../../models');
+// Add bcrypt here //
+
 router.get('/', (req, res) => {
     User.findAll({
             attributes: { exclude: ['[password'] }
