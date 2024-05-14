@@ -1,5 +1,8 @@
 # Mod14-Tech-Blog
 
+   I am purposely exploring verious types of README formatting. I like difference structure for different reason and finding out how detailed and specific I need to be varies per task and application. Im excited later on to 
+
+
    [Repository Link] (https://github.com/SongBirdCode/Mod14-Tech-Blog)
 
    [Video Walkthrough]()
@@ -18,7 +21,9 @@
  
   ## Description
 
-  Developers in the tech industry now have an application where they can publish their blog posts. As well as comment on other posts on the web page. This app follows the MVC (model-view-controller) that uses handlebars, node js, mysql, sequelize and other npm packages. In order to deploy the app Render was used. 
+  Developers in the tech industry now have an application where they can publish their blog posts and comment on other posts on the web page. 
+  This app follows the MVC (model-view-controller) that uses handlebars, node js, dbeaver, sequelize and other npm packages. 
+  In order to deploy, the app Render was used. 
 
   ## Screenshot
 
@@ -33,6 +38,8 @@
   ## Usage
 
   To use this repo, make sure you have all the necessary packages installed. Also, creating a mysql database will be needed with password and username to that database.
+
+  handlebars, node js, dbeaver, sequelize, render were all used for this application.
   
   ## Contributing
 

@@ -1,0 +1,20 @@
+{
+  "name": "mod14-tech-blog",
+  "version": "1.0.0",
+  "description": "I am purposely exploring verious types of README formatting. I like difference structure for different reason and finding out how detailed and specific I need to be varies per task and application. Im excited later on to",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.2",
+    "express-session": "^1.18.0",
+    "handlebars": "^4.7.8"
+  }
+}
